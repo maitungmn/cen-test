@@ -12,6 +12,8 @@ Ex. -
 ## Features
 Able to get 15 digits through API param:
 - GET: /gen/number
+Full Path at Local:
+- GET: http://localhost:3000/gen/number
 
 ## Installation
 ```$ npm install```
