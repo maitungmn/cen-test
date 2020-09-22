@@ -1,5 +1,5 @@
 import { AppRouter } from './AppRouter';
-import express, { Request, Response } from 'express';
+import express from 'express';
 import bodyParser from 'body-parser';
 import './controllers/GenerateNumberController';
 import './controllers/RootController';
